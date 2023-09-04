@@ -1,6 +1,4 @@
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -17,7 +15,6 @@
 #logo {
     width: 250px;
     height: auto;
-    margin-left: 400px;
     position: absolute;
     bottom: 0;
     margin-bottom: 20px;
@@ -26,18 +23,9 @@
 h1 {
     margin-top: 20px;
     font-size: 45px;
-    margin-left: 400px;
-    margin-right: 400px;
-}
-
-main,
-aside {
-    margin-left: 400px;
-    margin-right: 400px;
 }
 
 .author {
-    margin-left: 400px;
     color: #b1b1b1;
     margin-bottom: 20px;
 }
@@ -57,7 +45,7 @@ ul,
 }
 
 ul{
-    margin-left: 15px;
+    padding-left: 15px;
 }
 
 tr {
@@ -78,10 +66,11 @@ tr {
 table {
     border-collapse: collapse;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 .large-column {
-    width: 270px;
+    width: 30%;
 }
 
 h3 {
