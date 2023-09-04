@@ -18,6 +18,7 @@
     position: absolute;
     bottom: 0;
     margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 h1 {
@@ -44,7 +45,7 @@ ul,
     margin-bottom: 20px;
 }
 
-ul{
+ul {
     padding-left: 15px;
 }
 
