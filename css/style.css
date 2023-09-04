@@ -32,6 +32,11 @@ h1{
     margin-right: 200px;
 }
 
-.autore{
+.author{
     margin-left: 200px;
+    color: #b1b1b1;
+}
+
+.author-lightblue{
+    color: #28abe5;
 }
